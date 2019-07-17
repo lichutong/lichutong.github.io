@@ -9,7 +9,7 @@
 title: 李楚桐的博客
 brief-intro: Algo Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://lichutong.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
